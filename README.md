@@ -1,2 +1,2 @@
 # owcf-test.github.io
-Ocean Waste Catcher Foundation - Webcontent
+Ocean Waste Catcher Foundation - Website
