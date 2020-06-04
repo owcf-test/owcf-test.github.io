@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haben Sie Fragen? on Ocean Waste Catcher Foundation</title>
+    <link>owcf-test.github.io/contact/</link>
+    <description>Recent content in Haben Sie Fragen? on Ocean Waste Catcher Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
+    
+	<atom:link href="owcf-test.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wolfgang Beier (CEO)</title>
+      <link>owcf-test.github.io/contact/beier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>owcf-test.github.io/contact/beier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norbert Oefner (CEO)</title>
+      <link>owcf-test.github.io/contact/oefner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>owcf-test.github.io/contact/oefner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus Stoffel</title>
+      <link>owcf-test.github.io/contact/stoffel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>owcf-test.github.io/contact/stoffel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
