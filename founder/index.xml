@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spenden Sie on Ocean Waste Catcher Foundation</title>
-    <link>owcf-test.github.io/founder/</link>
+    <link>/founder/</link>
     <description>Recent content in Spenden Sie on Ocean Waste Catcher Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
     
-	<atom:link href="owcf-test.github.io/founder/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/founder/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Norbert Oefner (CEO)</title>
-      <link>owcf-test.github.io/founder/oefner/</link>
+      <link>/founder/oefner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>owcf-test.github.io/founder/oefner/</guid>
+      <guid>/founder/oefner/</guid>
       <description> Geboren am 12.02.1954 in Braunschweig 1971 Wirtschaftsgymnasium 1974 Wehrdienst 1976 BWL Studium Freie Universität Berlin und London School of Foreign Trade 1980 Länderrisikoanalyst Berliner Bank AG 1982 Kreditrisikoanalyst Berliner Volksbank eG 2002 Leiter der Förderberatung PwC Deutsche Revision AG 2006 Operation Manager PricewaterhouseCoopers AG  </description>
     </item>
     
     <item>
       <title>Wolfgang Beier (CEO)</title>
-      <link>owcf-test.github.io/founder/beier/</link>
+      <link>/founder/beier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>owcf-test.github.io/founder/beier/</guid>
+      <guid>/founder/beier/</guid>
       <description>Geboren am 21.06.1947 in Jevenstedt 1965 Seefahrtsschule Rotterdam 1989 Abteilungsleiter / Sachbearbeiter bei der FINAS B.</description>
     </item>
     

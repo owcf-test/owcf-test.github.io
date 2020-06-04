@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ideas on Ocean Waste Catcher Foundation</title>
-    <link>owcf-test.github.io/idea/</link>
+    <link>/idea/</link>
     <description>Recent content in Ideas on Ocean Waste Catcher Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
     
-	<atom:link href="owcf-test.github.io/idea/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/idea/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Idea</title>
-      <link>owcf-test.github.io/idea/01_intro/</link>
+      <link>/idea/01_intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>owcf-test.github.io/idea/01_intro/</guid>
+      <guid>/idea/01_intro/</guid>
       <description>Ocean Waste Catcher Foundation e.V. Unsere Expertenkompetenz für eine saubere Umwelt.</description>
     </item>
     
     <item>
       <title></title>
-      <link>owcf-test.github.io/idea/02_step1/</link>
+      <link>/idea/02_step1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>owcf-test.github.io/idea/02_step1/</guid>
+      <guid>/idea/02_step1/</guid>
       <description>Abfallsammelschiff und Technik Mehrzweck-Trockenfrachtschiff Maschinen: Hauptmotor: MAN B &amp;amp; W 8L32 / 40, 3840 Kw (5150 PS) Bugstrahlruder: 350 Kw (469 PS) Notstromaggregat: 177 kW Gesamtfassungsvermögen: 10547,5 cbm (372481 cft)</description>
     </item>
     
     <item>
       <title></title>
-      <link>owcf-test.github.io/idea/03_step2/</link>
+      <link>/idea/03_step2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>owcf-test.github.io/idea/03_step2/</guid>
+      <guid>/idea/03_step2/</guid>
       <description>Recycling der Plastikabfälle  Jährliche Kapazität: 10.000t Input: Plastikabfälle Output: Basis Öle  Nur etwa 1% Restabfälle sind zu entsorgen.</description>
     </item>
     
     <item>
       <title></title>
-      <link>owcf-test.github.io/idea/04_advantages/</link>
+      <link>/idea/04_advantages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>owcf-test.github.io/idea/04_advantages/</guid>
+      <guid>/idea/04_advantages/</guid>
       <description>Unsere Vorteile im Zusammenhang Von der Umwandlung des Abfalls durch die Pyrolyse wird Energie gewonnen, die für den Schiffsbetrieb genutzt werden kann.</description>
     </item>
     
     <item>
       <title></title>
-      <link>owcf-test.github.io/idea/05_market/</link>
+      <link>/idea/05_market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>owcf-test.github.io/idea/05_market/</guid>
+      <guid>/idea/05_market/</guid>
       <description>Markt und Marketing Marktpotenzial:  Zusätzlich zu den vorhandenen Abfällen kommen ca.</description>
     </item>
     
